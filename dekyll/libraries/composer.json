@@ -1,0 +1,8 @@
+{
+    "require": {
+        "cpliakas/git-wrapper": "~1.0.0",
+        "symfony/finder": "v2.3.0-BETA1",
+        "symfony/yaml": "v2.3.0-BETA1",
+        "knplabs/github-api": "~1.2@dev"
+    }
+}
