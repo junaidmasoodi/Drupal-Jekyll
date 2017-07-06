@@ -1,6 +1,6 @@
 #!/bin/bash
 
-chmod 777 www/sites/default/
+chmod 777 Sites/devdesktop/ # Could br any other place for your folder.
 bash scripts/build
 
 # Get composer
